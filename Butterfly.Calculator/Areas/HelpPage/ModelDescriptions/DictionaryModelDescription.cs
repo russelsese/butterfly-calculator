@@ -1,0 +1,6 @@
+namespace Butterfly.Calculator.Areas.HelpPage.ModelDescriptions
+{
+    public class DictionaryModelDescription : KeyValuePairModelDescription
+    {
+    }
+}

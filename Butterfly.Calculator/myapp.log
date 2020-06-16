@@ -1,0 +1,37 @@
+2020-06-16 16:14:37,910 [12] INFO Butterfly.Calculator.Controllers.CalculateController - HttpGet requested
+2020-06-16 16:14:50,950 [11] INFO Butterfly.Calculator.Controllers.CalculateController - HttpPost requested {"Operation":"add","Value1":14,"Value2":234}
+2020-06-16 16:14:50,950 [11] INFO Butterfly.Calculator.Controllers.CalculateController - Add operation executed
+2020-06-16 16:15:09,302 [10] INFO Butterfly.Calculator.Controllers.CalculateController - HttpPost requested {"Operation":"add","Value1":24234,"Value2":223432434}
+2020-06-16 16:15:09,312 [10] INFO Butterfly.Calculator.Controllers.CalculateController - Add operation executed
+2020-06-16 16:15:12,607 [10] INFO Butterfly.Calculator.Controllers.CalculateController - HttpPost requested {"Operation":"add","Value1":24234,"Value2":2.2324324234234323E+26}
+2020-06-16 16:15:12,609 [10] INFO Butterfly.Calculator.Controllers.CalculateController - Add operation executed
+2020-06-16 16:15:13,707 [12] INFO Butterfly.Calculator.Controllers.CalculateController - HttpPost requested {"Operation":"add","Value1":24234,"Value2":2.2324324234234323E+26}
+2020-06-16 16:15:13,707 [12] INFO Butterfly.Calculator.Controllers.CalculateController - Add operation executed
+2020-06-16 16:15:18,185 [11] INFO Butterfly.Calculator.Controllers.CalculateController - HttpPost requested {"Operation":"add","Value1":24232342342343244,"Value2":2.2324324234234323E+26}
+2020-06-16 16:15:18,185 [11] INFO Butterfly.Calculator.Controllers.CalculateController - Add operation executed
+2020-06-16 16:15:25,492 [10] INFO Butterfly.Calculator.Controllers.CalculateController - HttpPost requested {"Operation":"add","Value1":2.4232342342342341E+25,"Value2":2.232432422342342E+38}
+2020-06-16 16:15:25,494 [10] INFO Butterfly.Calculator.Controllers.CalculateController - Add operation executed
+2020-06-16 16:15:26,550 [12] INFO Butterfly.Calculator.Controllers.CalculateController - HttpPost requested {"Operation":"add","Value1":2.4232342342342341E+25,"Value2":2.232432422342342E+38}
+2020-06-16 16:15:26,551 [12] INFO Butterfly.Calculator.Controllers.CalculateController - Add operation executed
+2020-06-16 16:15:29,168 [11] INFO Butterfly.Calculator.Controllers.CalculateController - HttpPost requested {"Operation":"add","Value1":2.4232342342342341E+25,"Value2":2.2324324223423423E+50}
+2020-06-16 16:15:29,168 [11] INFO Butterfly.Calculator.Controllers.CalculateController - Add operation executed
+2020-06-16 16:15:30,588 [16] INFO Butterfly.Calculator.Controllers.CalculateController - HttpPost requested {"Operation":"add","Value1":2.4232342342342341E+25,"Value2":2.2324324223423423E+50}
+2020-06-16 16:15:30,588 [16] INFO Butterfly.Calculator.Controllers.CalculateController - Add operation executed
+2020-06-16 16:15:36,385 [11] INFO Butterfly.Calculator.Controllers.CalculateController - HttpPost requested {"Operation":"add","Value1":2222,"Value2":2222}
+2020-06-16 16:15:36,385 [11] INFO Butterfly.Calculator.Controllers.CalculateController - Add operation executed
+2020-06-16 16:15:54,512 [10] INFO Butterfly.Calculator.Controllers.CalculateController - HttpPost requested {"Operation":"add","Value1":234234234,"Value2":234234234}
+2020-06-16 16:15:54,515 [10] INFO Butterfly.Calculator.Controllers.CalculateController - Add operation executed
+2020-06-16 16:16:03,998 [10] INFO Butterfly.Calculator.Controllers.CalculateController - HttpPost requested {"Operation":"add","Value1":444444444444444,"Value2":4.4444444444444439E+20}
+2020-06-16 16:16:04,000 [10] INFO Butterfly.Calculator.Controllers.CalculateController - Add operation executed
+2020-06-16 16:16:08,058 [10] INFO Butterfly.Calculator.Controllers.CalculateController - HttpPost requested null
+2020-06-16 16:16:08,224 [10] ERROR Butterfly.Calculator.Controllers.CalculateController - Exception error occur Object reference not set to an instance of an object.
+2020-06-16 16:16:11,298 [11] INFO Butterfly.Calculator.Controllers.CalculateController - HttpPost requested null
+2020-06-16 16:16:11,381 [11] ERROR Butterfly.Calculator.Controllers.CalculateController - Exception error occur Object reference not set to an instance of an object.
+2020-06-16 16:16:14,112 [10] INFO Butterfly.Calculator.Controllers.CalculateController - HttpPost requested null
+2020-06-16 16:16:14,258 [10] ERROR Butterfly.Calculator.Controllers.CalculateController - Exception error occur Object reference not set to an instance of an object.
+2020-06-16 16:16:22,856 [10] INFO Butterfly.Calculator.Controllers.CalculateController - HttpPost requested {"Operation":"multiply","Value1":234,"Value2":456}
+2020-06-16 16:16:22,857 [10] INFO Butterfly.Calculator.Controllers.CalculateController - Multiply operation executed
+2020-06-16 16:16:26,013 [10] INFO Butterfly.Calculator.Controllers.CalculateController - HttpPost requested {"Operation":"multiply","Value1":234,"Value2":4}
+2020-06-16 16:16:26,013 [10] INFO Butterfly.Calculator.Controllers.CalculateController - Multiply operation executed
+2020-06-16 16:16:30,017 [10] INFO Butterfly.Calculator.Controllers.CalculateController - HttpPost requested {"Operation":"multiply","Value1":234,"Value2":46456}
+2020-06-16 16:16:30,025 [10] INFO Butterfly.Calculator.Controllers.CalculateController - Multiply operation executed
